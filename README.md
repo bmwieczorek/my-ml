@@ -1,1 +1,2 @@
-# my-ml
+# Install requirements
+pip install -r requirements.txt

@@ -1,5 +1,11 @@
+google-cloud-aiplatform
+google-cloud-pipeline-components
+google-cloud-bigquery
+google-cloud-bigquery-storage
 scikit-learn
-seaborn
+pandas
 jupyter
 numpy
-matplotlib
+seaborn
+pyarrow
+tqdm
